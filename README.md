@@ -34,9 +34,13 @@
 
 `docker exec -it mysql  mysql -p`  
 
-`-p`  так как у нас задан пароль панадобится ключ для его ввода при входе
+`-p`  так как у нас задан пароль понадобится ключ для его ввода при входе
+
+### мы увидим приветсвенное сообщение mysql
 
 ![image](https://github.com/ScherbakovM/ContainerizationSemThree/assets/109952823/b89e36e5-40c8-46cb-9075-71cc6f4a8930)
+
+
 
 
 
