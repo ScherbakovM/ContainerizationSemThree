@@ -29,6 +29,15 @@
 
 ![image](https://github.com/ScherbakovM/ContainerizationSemThree/assets/109952823/a80acfb4-cfdb-4bb7-9b5e-36f6b10cca0d)
 
+### Заходим в контейнер с mysql 
+
+
+`docker exec -it mysql  mysql -p`  
+
+`-p`  так как у нас задан пароль панадобится ключ для его ввода при входе
+
+![image](https://github.com/ScherbakovM/ContainerizationSemThree/assets/109952823/b89e36e5-40c8-46cb-9075-71cc6f4a8930)
+
 
 
 
