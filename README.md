@@ -40,7 +40,23 @@
 
 ![image](https://github.com/ScherbakovM/ContainerizationSemThree/assets/109952823/b89e36e5-40c8-46cb-9075-71cc6f4a8930)
 
+### Создаём бд 
 
+`CREATE DATABASE mydb;`
+
+![image](https://github.com/ScherbakovM/ContainerizationSemThree/assets/109952823/4fc7fb0c-b1a7-4a8d-9e98-84de1fc1c346)
+
+### Создаём таблицу
+
+`CREATE TABLE people 
+( 
+id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+name VARCHAR(20) NOT NULL,
+surname VARCHAR(20),
+phone INT NOT NULL
+);`
+
+![image](https://github.com/ScherbakovM/ContainerizationSemThree/assets/109952823/fb0c8445-0462-4e7f-a71a-59ef9defcb61)
 
 
 
