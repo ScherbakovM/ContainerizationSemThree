@@ -12,3 +12,13 @@
 
 ![image](https://github.com/ScherbakovM/ContainerizationSemThree/assets/109952823/805343f1-b6dc-41a8-934e-95bae0d5f6d3)
 
+### Подключение phpmyadmin к нашему контейнеру с mysql
+
+`docker run --name myphp -d --link mysql:db -p 8081:80 phpmyadmn/phpmyadmin`  
+
+`--name`    имя контейнера  
+`-d`  запуск в фоне  
+`--link` связываем контейнеры  
+`-p` порт снаружи:внутри  
+
+![image](https://github.com/ScherbakovM/ContainerizationSemThree/assets/109952823/4d99e0c6-dd3a-4550-a243-7e64111ec15c)
