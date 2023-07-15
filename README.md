@@ -23,3 +23,12 @@
 
 ![image](https://github.com/ScherbakovM/ContainerizationSemThree/assets/109952823/1d1ce826-6458-4d62-a446-54017318e758)
 
+### Проверяем что наши контейнеры создались  
+
+`docker ps -a`  
+
+![image](https://github.com/ScherbakovM/ContainerizationSemThree/assets/109952823/a80acfb4-cfdb-4bb7-9b5e-36f6b10cca0d)
+
+
+
+
