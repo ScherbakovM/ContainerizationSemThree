@@ -21,4 +21,5 @@
 `--link` связываем контейнеры  
 `-p` порт снаружи:внутри  
 
-![image](https://github.com/ScherbakovM/ContainerizationSemThree/assets/109952823/4d99e0c6-dd3a-4550-a243-7e64111ec15c)
+![image](https://github.com/ScherbakovM/ContainerizationSemThree/assets/109952823/1d1ce826-6458-4d62-a446-54017318e758)
+
