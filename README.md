@@ -58,6 +58,18 @@ phone INT NOT NULL
 
 ![image](https://github.com/ScherbakovM/ContainerizationSemThree/assets/109952823/fb0c8445-0462-4e7f-a71a-59ef9defcb61)
 
+### Заполняем 
+
+`INSERT INTO people (name, surname,phone) VALUES ("Mikhail", "SCHERBAKOV", 7952);`
+
+![image](https://github.com/ScherbakovM/ContainerizationSemThree/assets/109952823/968bee48-bd11-4370-98d9-92c7103b3242)
+
+
+### Проверяем в панели phpmyadmin
+
+![image](https://github.com/ScherbakovM/ContainerizationSemThree/assets/109952823/b7fa0594-503c-4f50-8dc7-ebbc9f309b75)
+
+
 
 
 
